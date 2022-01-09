@@ -1,2 +1,0 @@
-# day
-import java util.*
